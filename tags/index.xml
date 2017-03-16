@@ -47,9 +47,18 @@
     </item>
     
     <item>
+      <title>Marketing</title>
+      <link>https://sylwit.github.io/hugo-demo/tags/marketing/</link>
+      <pubDate>Fri, 16 Jun 2017 12:00:20 +0200</pubDate>
+      
+      <guid>https://sylwit.github.io/hugo-demo/tags/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Programming</title>
       <link>https://sylwit.github.io/hugo-demo/tags/programming/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <pubDate>Fri, 16 Jun 2017 12:00:20 +0200</pubDate>
       
       <guid>https://sylwit.github.io/hugo-demo/tags/programming/</guid>
       <description></description>
